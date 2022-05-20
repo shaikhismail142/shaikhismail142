@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shaikhismail142
-- 👀 I’m interested in ...Linux,MS MSQL, Python
+- 👀 I’m interested in ...Linux,MS-SQL, Python
 - 🌱 I’m currently learning ...Bash
 
 
